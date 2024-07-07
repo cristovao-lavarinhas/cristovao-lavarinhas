@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [soon in my portfolio]
+- 👨‍💻 All of my projects are available at https://cristovaolavarinhas.vercel.app/
 
 - 💬 Ask me about **my future plans**
 
